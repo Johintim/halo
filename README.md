@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
-> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
+> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。johintim做了修改并且上传了这次修改
 
 <p align="center">
 <a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square"/></a>
@@ -9,7 +9,6 @@
 <a href="https://github.com/halo-dev/halo/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/halo-dev/halo.svg?style=flat-square"></a>
 <a href="https://travis-ci.org/halo-dev/halo"><img alt="Travis CI" src="https://img.shields.io/travis/halo-dev/halo.svg?style=flat-square"/></a>
 </p>
-
 ------------------------------
 
 ## 简介
